@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/pratik-tee/DSA-Practice/tree/master/0038-count-and-say) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
