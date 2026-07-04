@@ -22,6 +22,7 @@
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0434-number-of-segments-in-a-string](https://github.com/pratik-tee/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0686-repeated-string-match](https://github.com/pratik-tee/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-tee/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/pratik-tee/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
