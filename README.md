@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/pratik-tee/DSA-Practice/tree/master/0492-construct-the-rectangle) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
