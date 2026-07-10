@@ -64,6 +64,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pratik-tee/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -112,6 +113,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,11 +140,13 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -159,6 +164,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/pratik-tee/DSA-Practice/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -169,4 +175,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
