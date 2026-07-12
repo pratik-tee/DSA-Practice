@@ -178,12 +178,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratik-tee/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -196,5 +198,6 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
