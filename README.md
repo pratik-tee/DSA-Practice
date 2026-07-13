@@ -93,6 +93,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/pratik-tee/DSA-Practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pratik-tee/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
 |  |
