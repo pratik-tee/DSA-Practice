@@ -156,6 +156,7 @@
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -249,6 +252,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
