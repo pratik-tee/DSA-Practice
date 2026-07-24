@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratik-tee/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
@@ -197,6 +198,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratik-tee/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
