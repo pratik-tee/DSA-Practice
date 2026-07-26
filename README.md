@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/pratik-tee/DSA-Practice/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratik-tee/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratik-tee/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -79,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
@@ -230,6 +232,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/pratik-tee/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
