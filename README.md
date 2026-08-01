@@ -85,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/pratik-tee/DSA-Practice/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratik-tee/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -323,4 +324,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pratik-tee/DSA-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
