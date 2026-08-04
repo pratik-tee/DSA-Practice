@@ -92,6 +92,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/pratik-tee/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
@@ -133,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/pratik-tee/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratik-tee/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
