@@ -90,6 +90,7 @@
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/pratik-tee/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -182,6 +183,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pratik-tee/DSA-Practice/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratik-tee/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -330,4 +333,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/pratik-tee/DSA-Practice/tree/master/0051-n-queens) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
