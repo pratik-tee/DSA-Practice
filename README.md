@@ -99,6 +99,7 @@
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/pratik-tee/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-tee/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/pratik-tee/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratik-tee/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
