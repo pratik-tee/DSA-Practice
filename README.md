@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pratik-tee/DSA-Practice/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/pratik-tee/DSA-Practice/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/pratik-tee/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/pratik-tee/DSA-Practice/tree/master/0686-repeated-string-match) |
@@ -169,6 +171,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
