@@ -43,6 +43,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/pratik-tee/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/pratik-tee/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-tee/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -227,6 +228,7 @@
 | [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
+| [1092-shortest-common-supersequence](https://github.com/pratik-tee/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratik-tee/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -360,4 +362,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/pratik-tee/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/pratik-tee/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
