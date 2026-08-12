@@ -23,6 +23,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/pratik-tee/DSA-Practice/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/pratik-tee/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/pratik-tee/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratik-tee/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
