@@ -21,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/pratik-tee/DSA-Practice/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/pratik-tee/DSA-Practice/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/pratik-tee/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
@@ -181,6 +183,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
