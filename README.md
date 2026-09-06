@@ -45,6 +45,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/pratik-tee/DSA-Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/pratik-tee/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratik-tee/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/pratik-tee/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
@@ -248,6 +249,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pratik-tee/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pratik-tee/DSA-Practice/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-tee/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
