@@ -98,6 +98,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratik-tee/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/pratik-tee/DSA-Practice/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratik-tee/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -138,6 +139,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratik-tee/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -199,6 +201,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratik-tee/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/pratik-tee/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
