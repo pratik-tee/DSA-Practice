@@ -56,6 +56,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/pratik-tee/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-tee/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-tee/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pratik-tee/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -86,6 +87,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/pratik-tee/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratik-tee/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
