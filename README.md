@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/pratik-tee/DSA-Practice/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0076-minimum-window-substring) |
@@ -261,6 +262,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/pratik-tee/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/pratik-tee/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -288,6 +290,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
@@ -420,4 +423,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-tee/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
