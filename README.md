@@ -330,6 +330,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/pratik-tee/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [2236-root-equals-sum-of-children](https://github.com/pratik-tee/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -339,6 +340,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/pratik-tee/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/pratik-tee/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [2236-root-equals-sum-of-children](https://github.com/pratik-tee/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Greedy
 |  |
@@ -369,6 +371,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pratik-tee/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/pratik-tee/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
