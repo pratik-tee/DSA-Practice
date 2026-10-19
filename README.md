@@ -131,6 +131,7 @@
 | [1386-cinema-seat-allocation](https://github.com/pratik-tee/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-tee/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratik-tee/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pratik-tee/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pratik-tee/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratik-tee/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -226,6 +227,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratik-tee/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pratik-tee/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratik-tee/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pratik-tee/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratik-tee/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -316,6 +318,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/pratik-tee/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-tee/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratik-tee/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pratik-tee/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
