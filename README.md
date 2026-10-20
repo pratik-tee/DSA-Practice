@@ -455,4 +455,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-tee/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pratik-tee/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
