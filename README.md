@@ -19,6 +19,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pratik-tee/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratik-tee/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/pratik-tee/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -325,6 +328,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratik-tee/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
