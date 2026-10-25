@@ -127,6 +127,7 @@
 | [0739-daily-temperatures](https://github.com/pratik-tee/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratik-tee/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1254-number-of-closed-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pratik-tee/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/pratik-tee/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -253,6 +254,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pratik-tee/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -262,6 +264,7 @@
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratik-tee/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -276,6 +279,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pratik-tee/DSA-Practice/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -381,6 +385,7 @@
 | [0785-is-graph-bipartite](https://github.com/pratik-tee/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pratik-tee/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/pratik-tee/DSA-Practice/tree/master/0814-binary-tree-pruning) |
+| [1254-number-of-closed-islands](https://github.com/pratik-tee/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratik-tee/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
