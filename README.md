@@ -157,6 +157,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratik-tee/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -287,6 +288,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratik-tee/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [1092-shortest-common-supersequence](https://github.com/pratik-tee/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratik-tee/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pratik-tee/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
