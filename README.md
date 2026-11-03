@@ -18,6 +18,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/pratik-tee/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratik-tee/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pratik-tee/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratik-tee/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/pratik-tee/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
@@ -156,6 +157,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratik-tee/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratik-tee/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratik-tee/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pratik-tee/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pratik-tee/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pratik-tee/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
